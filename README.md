@@ -4,3 +4,5 @@ This is a data cleaning, analysis, and visualization project using SQL and Table
 
 Additionally, the tableau dashboard has been posted on tableau public which can be accessed [here](https://public.tableau.com/app/profile/jun.kang/viz/SteamGameDashboard/Distributions?publish=yes)
 
+To see all sheets, click on settings icon on the top right and click Show Sheets.
+
